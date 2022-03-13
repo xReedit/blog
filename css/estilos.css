@@ -14,3 +14,16 @@ body {
 #container h1 {
 	font-size: 25px;
 }
+
+#cabecera {
+	width: 100%;
+	background: blue;
+	padding: 10px;
+	font-size: 18px;
+	margin: 0;
+	color: white;
+}
+
+#cabecera span {
+	font-size: 12px;
+}
